@@ -11,7 +11,7 @@
 
 Summary:	Compact Language Detector 2
 Name:		cld2
-Version:	0
+Version:	20150820
 Release:	%{?snapshot:0.git%{commitdate}.}1
 License:	ASL 2.0
 URL:		https://github.com/CLD2Owners/cld2/
